@@ -27,7 +27,6 @@ public class OrderRollerTest {
     private final String addressValue;
     private final String phoneValue;
     private final String metroValue;
-    private final String data;
     private final int orderButtonNumber;
     //обьявление конструктора с полями для инпутов, где 0 - кнопка в начале страницы, 1 - кнопка в середине страницы
     public OrderRollerTest(String nameValue, String surnameValue, String addressValue, String phoneValue, String metroValue, String data, int orderButtonNumber) {
